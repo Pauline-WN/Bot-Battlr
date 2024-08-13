@@ -24,8 +24,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bot-battlr.git
-
+   git clone https://github.com/Pauline-WN/Bot-Battlr.git
    ```
 
 2. **Navigate to the project directory**
